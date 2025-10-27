@@ -1,0 +1,9 @@
+streamlit
+yt-dlp
+faster-whisper
+reportlab
+python-dotenv
+ffmpeg-python
+tqdm
+langchain_google_genai
+google-generativeai
